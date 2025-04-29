@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Jacket",
+    "image": "https://i.ibb.co.com/3YMrgrgc/1.jpg",
+    "price": 79.99
+  },
+  {
+    "id": 2,
+    "name": "Women's Handbag",
+    "image": "https://i.ibb.co.com/XxMxmwMr/2.jpg",
+    "price": 119.00
+  },
+  {
+    "id": 3,
+    "name": "Kids Sneakers",
+    "image": "https://i.ibb.co.com/B2tYhJyW/3.jpg",
+    "price": 45.50
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "image": "https://i.ibb.co.com/hRZtGgC9/4.jpg",
+    "price": 199.99
+  },
+  {
+    "id": 5,
+    "name": "Wireless Headphones",
+    "image": "https://images.unsplash.com/photo-1580894894513-c6b858d74a7e",
+    "price": 129.99
+  },
+  {
+    "id": 6,
+    "name": "Men's Jacket",
+    "image": "https://i.ibb.co.com/3YMrgrgc/1.jpg",
+    "price": 79.99
+  },
+  {
+    "id": 7,
+    "name": "Women's Handbag",
+    "image": "https://i.ibb.co.com/XxMxmwMr/2.jpg",
+    "price": 119.00
+  },
+  {
+    "id": 8,
+    "name": "Kids Sneakers",
+    "image": "https://i.ibb.co.com/B2tYhJyW/3.jpg",
+    "price": 45.50
+  },
+  {
+    "id": 9,
+    "name": "Smart Watch",
+    "image": "https://i.ibb.co.com/hRZtGgC9/4.jpg",
+    "price": 199.99
+  },
+  {
+    "id": 10,
+    "name": "Wireless Headphones",
+    "image": "https://images.unsplash.com/photo-1580894894513-c6b858d74a7e",
+    "price": 129.99
+  }
+]
